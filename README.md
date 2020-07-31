@@ -1,4 +1,4 @@
-# Drawer navigation example
+# React Navigation Practice and Examples
 
 <p>
   <!-- iOS -->
@@ -12,7 +12,7 @@
 ## 🚀 How to use
 
 - Install with `yarn` or `npm install`.
-- Run `expo start` to try it out.
+- Run `sudo yarn start` or `expo start` to try it out.
 
 ## 📝 Notes
 
